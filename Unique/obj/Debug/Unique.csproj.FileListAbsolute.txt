@@ -1,0 +1,6 @@
+c:\users\ronye\documents\visual studio 2015\Projects\Unique\Unique\bin\Debug\Unique.exe.config
+c:\users\ronye\documents\visual studio 2015\Projects\Unique\Unique\bin\Debug\Unique.exe
+c:\users\ronye\documents\visual studio 2015\Projects\Unique\Unique\bin\Debug\Unique.pdb
+c:\users\ronye\documents\visual studio 2015\Projects\Unique\Unique\obj\Debug\Unique.csprojResolveAssemblyReference.cache
+c:\users\ronye\documents\visual studio 2015\Projects\Unique\Unique\obj\Debug\Unique.exe
+c:\users\ronye\documents\visual studio 2015\Projects\Unique\Unique\obj\Debug\Unique.pdb
